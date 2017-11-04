@@ -25,7 +25,7 @@ SECRET_KEY = '&%2-fs)%!rk%t0g^3m&f5!tm#f-ymxy8g%(yj(oo3m6dpn^75u'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<your_username>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'rubinims.pythonanywhere.com']
 
 
 # Application definition
